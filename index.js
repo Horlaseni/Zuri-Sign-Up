@@ -1,4 +1,3 @@
-/*
 function validate(){
     var form = document.getElementById("validate-form");
     var fname = document.getElementById("fname").value;
@@ -46,5 +45,3 @@ function success(){
         'success'
       )
 }
-
-*/
